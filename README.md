@@ -10,3 +10,5 @@
 	2-3 hours with an auto-clicker.
 
 CREATED BY KERIMCAN UZAR (Aug 2020)
+
+![Alt text](https://github.com/KerimcanUzar/simple-clicker/blob/main/ss.png "screenshot")
